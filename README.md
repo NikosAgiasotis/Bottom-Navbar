@@ -9,7 +9,6 @@ What was used for this project  :
 - Font Awesome
 
 
-![Demo Image] ([https://i.imgur.com/bcJd9wN.jpeg])
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="https://i.imgur.com/Y9dvY3G.png">]
 
 

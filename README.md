@@ -7,3 +7,7 @@ What was used for this project  :
 - CSS
 - JavaScript
 - Font Awesome
+
+
+![alt text]([http://url/to/img.png](https://en.wikipedia.org/wiki/Image))
+

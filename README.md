@@ -10,7 +10,8 @@ What was used for this project  :
 - Font Awesome
 
 Pc View + Mobile View :
-<img src="https://i.imgur.com/Y9dvY3G.png">
-<img src="https://i.imgur.com/mq6IsjK.png">
+
+<img src="https://imgur.com/lAHuBBZ">
+
 
 

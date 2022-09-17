@@ -8,6 +8,9 @@ What was used for this project  :
 - JavaScript
 - Font Awesome
 
+Development IDE :
+- VS Code
+
 <h3>Pc View + Mobile View :</h3>
 
 <img src="https://i.imgur.com/DKCyYf9.png">

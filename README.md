@@ -1,7 +1,6 @@
 # Bottom-Navbar
 
-<h2>I created a modern & full Responsive Navigation Bar + Tablet - Mobile friendly.</h2>
-
+<h2>I created a modern & full Responsive Navigation Bar ( with animation ) + Tablet - Mobile friendly.</h2>
 
 What was used for this project  :
 - HTML
@@ -9,7 +8,7 @@ What was used for this project  :
 - JavaScript
 - Font Awesome
 
-Pc View + Mobile View :
+<h3>Pc View + Mobile View :</h3>
 
 <img src="https://i.imgur.com/DKCyYf9.png">
 

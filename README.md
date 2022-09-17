@@ -11,7 +11,7 @@ What was used for this project  :
 
 Pc View + Mobile View :
 
-<img src="https://imgur.com/lAHuBBZ">
+<img src="https://i.imgur.com/DKCyYf9.png">
 
 
 

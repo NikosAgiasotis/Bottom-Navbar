@@ -12,6 +12,6 @@ Pc View :
 <img src="https://i.imgur.com/Y9dvY3G.png">
 
 Mobile view :
-<img src="https://i.imgur.com/Y9dvY3G.png">
+<img src="https://i.imgur.com/mq6IsjK.png">
 
 

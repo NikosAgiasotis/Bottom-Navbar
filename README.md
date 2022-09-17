@@ -9,10 +9,8 @@ What was used for this project  :
 - JavaScript
 - Font Awesome
 
-Pc View :
+Pc View + Mobile View :
 <img src="https://i.imgur.com/Y9dvY3G.png">
-
-Mobile view :
 <img src="https://i.imgur.com/mq6IsjK.png">
 
 

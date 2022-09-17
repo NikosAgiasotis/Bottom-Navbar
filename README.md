@@ -9,6 +9,6 @@ What was used for this project  :
 - Font Awesome
 
 
-[<img src="https://i.imgur.com/Y9dvY3G.png">
+src="https://i.imgur.com/Y9dvY3G.png">
 
 

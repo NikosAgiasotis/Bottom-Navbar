@@ -1,6 +1,6 @@
 # Bottom-Navbar
 
-<h2>I created a modern & full Responsive Navigation Bar ( with animation ) + Tablet - Mobile friendly.</h2>
+<h2>A modern & full Responsive Navigation Bar ( with animation ) + Tablet - Mobile friendly.</h2>
 
 What was used for this project  :
 - HTML
